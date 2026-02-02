@@ -114,4 +114,6 @@ void main() {
     } else {
         System.out.println("The robot moved " + yString + " units south and " + xString + " units west.");
     }
+
+    sc.close();
 }
